@@ -8,7 +8,7 @@ Automates bulk attendance filling for after‑school / training centers on **dar
 
 ## Demo
 
-* **Loom (90s):** [*add  here*](https://www.loom.com/share/e039c9e109bc46d59000171f44aa460b)
+* **Loom (90s):** [*Loom video*](https://www.loom.com/share/e039c9e109bc46d59000171f44aa460b)
 * **GIF preview:** `docs/demo_selenium.gif`
 
 ---
