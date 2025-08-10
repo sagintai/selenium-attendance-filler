@@ -2,7 +2,7 @@
 
 Automates bulk attendance filling for after‑school / training centers on **darabala.kz**. The bot logs in once, opens each child record, and sets the required days with a single command. Built for reliability (stable clicks, waits, retries) and safe configuration via **.env**.
 
-> **Who is this for?** Owners/managers of education centers who waste hours clicking the same dropdowns. This script turns a monthly chore into a 1–2 minute run.
+> **Who is this for?** Owners/managers of education centers who waste hours clicking the same dropdowns. This script turns a daily chore into a 2 minute run.
 
 ---
 
